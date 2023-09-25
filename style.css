@@ -72,7 +72,7 @@
 }
 .teleport-show {
   display: flex !important;
-  transform: none !important;
+  transform: translateY(0%) !important;
 }
 .nav-link {
   color: #fff;
@@ -218,6 +218,7 @@
   font-family: Poppins;
   line-height: 21px;
 }
+
 .Heading {
   font-size: 32px;
   font-family: Inter;
